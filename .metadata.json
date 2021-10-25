@@ -1,5 +1,6 @@
 [
   {
-    "package": "collateral"
+    "package": "collateral",
+    "oncran": false
   }
 ]
