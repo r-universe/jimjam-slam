@@ -1,11 +1,12 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/jimjam-slam/universe
-	shallow = true
 	branch = HEAD
 [submodule "collateral"]
 	path = collateral
 	url = https://github.com/jimjam-slam/collateral
-	shallow = true
 	branch = main
-	registered = true
+[submodule "ggflags"]
+	path = ggflags
+	url = https://github.com/jimjam-slam/ggflags
+	branch = dev
