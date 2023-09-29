@@ -9,4 +9,4 @@
 [submodule "ggflags"]
 	path = ggflags
 	url = https://github.com/jimjam-slam/ggflags
-	branch = dev
+	branch = main
