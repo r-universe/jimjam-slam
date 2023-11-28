@@ -10,3 +10,7 @@
 	path = ggflags
 	url = https://github.com/jimjam-slam/ggflags
 	branch = main
+[submodule "stickylabeller"]
+	path = stickylabeller
+	url = https://github.com/jimjam-slam/stickylabeller
+	branch = feature-1.0.0
