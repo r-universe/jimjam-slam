@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/jimjam-slam/universe
+	url = https://github.com/jimjam-slam/jimjam-slam.r-universe.dev
 	branch = HEAD
 [submodule "collateral"]
 	path = collateral
