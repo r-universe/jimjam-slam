@@ -17,4 +17,4 @@
 [submodule "stickylabeller"]
 	path = stickylabeller
 	url = https://github.com/jimjam-slam/stickylabeller
-	branch = feature-1.0.0
+	branch = main
